@@ -6,3 +6,5 @@ For the first assignment we worked on an convolutional neural network to recogni
 
 # HW2: Timeseries classification
 For the second assignment we worked on different types of recurrent neural networks to classify timeseries in six different classes.
+
+The dataset can be found [here](https://www.kaggle.com/datasets/marcogalliani/training-datasethomework2)
